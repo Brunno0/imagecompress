@@ -1,0 +1,27 @@
+{
+  "name": "imagemrem",
+  "version": "0.1.0",
+  "description": "Image compress ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "~br",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.30.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunno0/imagecompress.git"
+  },
+  "keywords": [
+    "image",
+    "process"
+  ],
+  "bugs": {
+    "url": "https://github.com/Brunno0/imagecompress/issues"
+  },
+  "homepage": "https://github.com/Brunno0/imagecompress#readme"
+}
